@@ -17,9 +17,9 @@ function App() {
         <Route path='/ComponentTwo' element = {<ComponentTwo/>}/>
         <Route path='/ComponentThree' element = {<ComponentThree/>}/>
       </Routes>
-      <ComponentOne/>
+      {/* <ComponentOne/>
       <ComponentTwo/>
-      <ComponentThree/>
+      <ComponentThree/> */}
 
       
     </div>
